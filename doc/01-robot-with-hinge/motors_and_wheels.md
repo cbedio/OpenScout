@@ -1,4 +1,4 @@
-# Din rail
+# Motors and wheels
 
 Bill of materials:
 | Material                         | Quantity | Reference | UK link |
