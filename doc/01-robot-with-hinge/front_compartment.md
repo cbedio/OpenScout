@@ -12,7 +12,7 @@ Bill of materials:
 
 
 <p float="left">
-  <img src="../images/front_compartment_knolling.png" title="Open for full resolution" width="650"/>
+  <img src="../images/front_compartment_knolling.jpeg" title="Open for full resolution" width="650"/>
 </p>
 
 ## Introduction
