@@ -1,6 +1,18 @@
 # OpenAgriscout with hinge in the middle
 This configuration uses four-wheel differential drive steering, and a Lazy Susan hinged body which enables the wheels to drive over small obstacles without the need for suspension.
 
+## Assembly Tools Required
+These are the tools required to build the OpenScout
+
+| Material                         | Quantity | UK link |
+| ---------------------------------|---------:|:-------:|
+| M2/3/4/5 Hex Key | 1 | [Link](https://www.amazon.co.uk/ZISHATUO-Hex-Key-Set-2mm-5mm/dp/B09H768WYX/ref=pb_allspark_dp_sims_pao_desktop_session_based_sccl_2/258-5239920-8165609?pd_rd_w=kzaV3&pf_rd_p=0b4a59e4-200b-45ea-a783-524e7e41dc2f&pf_rd_r=RD0QHGDWYM9XFNKMBHKS&pd_rd_r=8dc6d3ba-93f0-4fe6-a26c-0d9a4fdacbea&pd_rd_wg=EEpUo&pd_rd_i=B09H768WYX&psc=1) |
+| Small Flathead Screwdriver | 1 | [Link](https://www.amazon.co.uk/Rolson-28852-Screwdriver-Set-Pieces/dp/B00OOTPM6K/ref=sr_1_21?crid=BQBSM3K5OGBA&keywords=small%2BPhil%3Blips%2Bhead%2Bscrewdriver&qid=1649287786&s=diy&sprefix=small%2Bphil%2Blips%2Bhead%2Bscrewdriver%2Cdiy%2C107&sr=1-21&th=1) |
+| Small Phillips Head Screwdriver | 1 | [Link](https://www.amazon.co.uk/Rolson-28852-Screwdriver-Set-Pieces/dp/B00OOTPM6K/ref=sr_1_21?crid=BQBSM3K5OGBA&keywords=small%2BPhil%3Blips%2Bhead%2Bscrewdriver&qid=1649287786&s=diy&sprefix=small%2Bphil%2Blips%2Bhead%2Bscrewdriver%2Cdiy%2C107&sr=1-21&th=1) |
+| 100mm Steel rule | 1 | [Link](https://www.amazon.co.uk/Silverline-MT65-Steel-Rule-150/dp/B000LFXRNQ/ref=sr_1_5?crid=3H7ZUITKEPZYU&keywords=100mm+metal+ruler&qid=1649287876&s=diy&sprefix=100mm+metal+rule%2Cdiy%2C128&sr=1-5) |
+
+
+
 ## Bill of materials
 Before proceeding make sure you do have all the following materials. You are encouraged to read carefully the tutorial before starting building the robot.
 
