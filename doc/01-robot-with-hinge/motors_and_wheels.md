@@ -38,7 +38,7 @@ One the other hand, the wheels selection wasn't very sophisticated, and soon the
 </p>
 
 
-3. Attach the (M4) hex couplers on each motor shaft using the provided screws, and tight them. Ensure that the grub screw is tightened on the flat provided of the motor shaft. Make sure you give enough distance (~10mm) so the wheels won't touch the bracket while driving. Be sure that the hex coupler has been mounted properly by trying to pull it off.
+3. Attach the (M4) hex couplers on each motor shaft using the provided screws, and tight them. Ensure that the grub screw is tightened on the flat provided on the motor shaft. Make sure you give enough distance (~10mm) so the wheels won't touch the bracket while driving. Be sure that the hex coupler has been mounted properly by trying to pull it off.
 
 <p float="center">
   <img src="../images/motor_brackets_5.jpeg" title="Attaching the hex couplers on the motor brackets." width="300"/>
