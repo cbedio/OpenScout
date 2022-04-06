@@ -38,21 +38,21 @@ The T-slot nut (T5) is very useful to fasten things on aluminium extrusions as i
   <img src="../images/front_compartment_height_all.jpeg" title="Prepare 4 of these" width="520"/>
 </p>
 
-2. Prepare 2 more (A2) extrusions to secure (T5) nuts, (N3) washers and (S5.10) screws; 3 on each side as in the following image. Again, do not tight to strong, they are later going to accommodate the bottom acrylic panels, and the (B1) joints we prepared in the previous step.
+2. Prepare 2 more (A2) extrusions to secure (T5) nuts, (N3) washers and (S5.10) screws; 3 on each side as in the following image. Again, do not over tighten (finger tight is good enough so they don't fall out of the channel), as they are later going to accommodate the bottom acrylic panels, and the (B1) joints we prepared in the previous step.
 
 <p float="center">
   <img src="../images/front_compartment_length_bottom_1.jpeg" title="This will be fitted horizontally on the bottom part of the robot" width="180"/>
   <img src="../images/front_compartment_length_bottom_all.jpeg" title="Prepare 2 of these" width="575"/>
 </p>
 
-3. Use the rest 2 (A2) extrusions to secure (T5) nuts, (N3) washers and (S5.10) screws; 2 on each side this time. Again, do not tight to strong, they are later going to be used as the ones in step 2, but on the top side which will not host any acrylic (hence the 2 instead of 3 screws).
+3. Prepare 2 off (A2) extrusions and secure using (T5) nuts, (N3) washers and (S5.10) screws; 2 on each side this time. Again, do not over tighten, they are later going to be used as the ones in step 2, but on the top side which will not host any acrylic (hence the 2 instead of 3 screws).
 
 <p float="center">
   <img src="../images/front_compartment_length_top_1.jpeg" title="This will be fitted horizontally on the top part of the robot" width="180"/>
   <img src="../images/front_compartment_length_top_all.jpeg" title="Prepare 2 of these" width="575"/>
 </p>
 
-4. Prepare 2 (A1) extrusions which are going to be used horizontally (on the top side) defining the width of the robot. See the following image for reference.
+4. Prepare 2 off (A1) extrusions which are going to be used horizontally (on the top side) defining the width of the robot. See the following image for reference.
 
 <p float="center">
   <img src="../images/front_compartment_width_top_1.jpeg" title="This will be fitted horizontally on the top part of the robot" width="180"/>

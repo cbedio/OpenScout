@@ -25,7 +25,7 @@ This tutorial includes instructions to connect the front and the back compartmen
  - Upload the .dxf files in the `./cad_files` folder
  - Update the `./cad_files/README.md`
 
-2. Fit the acrylic panel with the bigger hole in back side of the front compartment (the front and the back sides of the compartment are symmetrical), using the pre-fitted (S5.10) screws. Next, fit the acrylic panel with the smaller hole on the front side of the back compartment (the din-rail should be located on the right side of the back compartment).
+2. Fit the acrylic panel with the bigger hole in back side of the front compartment (the front and the back sides of the compartment are symmetrical), using the pre-fitted (S5.10) screws. Next, fit the acrylic panel with the smaller hole on the front side of the back compartment (the din-rail should be located on the right side of the back compartment). When tightening, ensure that diametrically apposite nuts are tightened in sequence (like you would a car wheel), to ensure even compression and reduce potential cracking.
 
 <p float="center">
   <img src="../images/hinge_front_side.jpeg" title="The front compartment" width="400"/>

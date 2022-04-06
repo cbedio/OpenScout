@@ -25,7 +25,7 @@ This tutorial includes instructions to laser-cut and fit the bare minimum acryli
   <img src="../images/front_back_panels_2.png" title="Attaching the side panels" width="400"/>
 </p>
 
-3. Fit the bottom panels (the bigger ones) as in the previous step using the already equipped (S5.10) screws. The motor slots should be facing away from the middle. Repeat for the other half. Make sure the construction is solid.
+3. Fit the bottom panels (the bigger ones) as in the previous step using the already equipped (S5.10) screws. The motor slots should be facing away from the middle. Repeat for each half of the construction. Make sure the construction is solid before progressing.
 
 <p float="center">
   <img src="../images/bottom_panels.jpeg" title="Attaching the bottom panels" width="400"/>
