@@ -28,6 +28,7 @@ One the other hand, the wheels selection wasn't very sophisticated, and soon the
 <p float="center">
   <img src="../images/motor_brackets_1.jpeg" title="Attaching the motor brackets on the bottom of the chassis." width="300"/>
   <img src="../images/motor_brackets_2.jpeg" title="Attaching the motor brackets on the bottom of the chassis." width="300"/>
+  <img src="../images/motor_brackets_2c.jpeg" title="Attaching the motor brackets on the bottom of the chassis." width="300"/>
 </p>
 
 2. Align the (M1) motor on the bracket using the holes as a guide, and attach them using the (P4.6) screws. Repeat for the rest of the motors.
