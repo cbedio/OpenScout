@@ -10,8 +10,9 @@ OpenAgriscout is made of standard sizes aluminium extrusions making it very modu
   <img src="doc/images/robot_with_hinge_01.png" title="Robot with hinge in the middle configuration" width="400" height="300"/> 
 </p>
 
-### Demonstration
+## Demonstration
 
+[TODO Add demo video here of it moving and climbing stuff]
 
 ## Getting started
 Materials used:
@@ -19,7 +20,7 @@ The robot consists of 200mm & 300mm 20x20 aluminium extrusions connected with 90
 
 The full bill of materials depends on each configuration and for more details please refer to the tutorials.
 
-List of tutorials:
+Assembly tutorials:
 
 * [OpenAgriscout with hinge in the middle](doc/01-robot-with-hinge/README.md)
 * [Basic electronics layout](doc/basic_circuit.md)
