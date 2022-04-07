@@ -71,6 +71,7 @@ The T-slot nut (T5) is very useful to fasten things on aluminium extrusions as i
 
 <p float="center">
   <img src="../images/front_compartment_front_side_1.jpeg" title="The front side of the compartment" width="180"/>
+  <img src="../images/front_compartment_front_side_2a.jpeg" title="Prepare 2 of these" width="200"/>
   <img src="../images/front_compartment_front_side_2.jpeg" title="Prepare 2 of these" width="550"/>
 </p>
 
