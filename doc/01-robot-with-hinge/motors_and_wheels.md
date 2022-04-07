@@ -34,6 +34,7 @@ One the other hand, the wheels selection wasn't very sophisticated, and soon the
 2. Align the (M1) motor on the bracket using the holes as a guide, and attach them using the (P4.6) screws. Repeat for the rest of the motors.
 
 <p float="center">
+  <img src="../images/motor_brackets_3a.jpeg" title="Attaching the motors on the motor brackets." width="300"/>
   <img src="../images/motor_brackets_3.jpeg" title="Attaching the motors on the motor brackets." width="300"/>
   <img src="../images/motor_brackets_4.jpeg" title="Attaching the motors on the motor brackets." width="300"/>
 </p>
