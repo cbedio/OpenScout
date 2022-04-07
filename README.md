@@ -42,3 +42,5 @@ The general process of contributing on GitHub is widely documented however the o
 1. Update the project and then make a pull request!
 
 ## License
+
+Add licence here
