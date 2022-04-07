@@ -18,6 +18,8 @@ Bill of materials:
 
 This tutorial includes instructions to connect the front and the back compartments using the hinge.
 
+### Build time = 45 minutes
+
 ## Step-by-step instructions
 
 1. TODO:

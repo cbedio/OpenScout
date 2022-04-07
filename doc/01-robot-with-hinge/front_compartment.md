@@ -29,6 +29,8 @@ Final result:
 
 The T-slot nut (T5) is very useful to fasten things on aluminium extrusions as it allows it to freely slide within the extrusion and gets secured once it's fastened with a screw. The order of attachment from bottom to top should be: T-slot nut (T5), attachment, washer (N3) and lastly secured with the bolt (S5.10). **Be careful though that the T-nut to be inserted needs an open ended extrusion, so you need to know how many of them you need before start attaching things to the end of the extrusions.**
 
+### Build time = 75 minutes
+
 ## Step-by-step instructions
 
 1. Prepare 4 (A2) extrusions which are going to be used vertically defining the height of the robot. Attach the (B1) joints using the order defined previously: (T5) nut, (B1) joint, (N3) washer, and secure with a (S5.10) socket screw. Each side should have 2 joints attached and a (S5.10) without something attached (these sockets will later accommodate the acrylic panels). Do not tight the screws too much as this is not their final place. Just try to secure them on the aluminium.

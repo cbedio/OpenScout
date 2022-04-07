@@ -15,6 +15,8 @@ Bill of materials:
 
 The din rail (DT) consists of a holed metal with some terminal blocks (red & white) attached on it. You can attach as many as you wish, and its purpose is provide some convience while wiring the battery.
 
+### Build time = 15 minutes
+
 ## Step-by-step instructions
 
 1. Attach the terminal blocks and the circuit breaker (E2) on the (DT). They 'click' if fitted properly, and they freely move along the rail.

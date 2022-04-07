@@ -21,6 +21,8 @@ Bill of materials:
 We used four 12V 90:1 CQrobot motors as they provide a relatively good amount of torque and they come with encoders as well. The particular motors come with brackets, thus mounting them gets very easy.
 One the other hand, the wheels selection wasn't very sophisticated, and soon they will replaced by bigger ones in order to increase ground clearence.
 
+### Build time = 45 minutes
+
 ## Step-by-step instructions
 
 1. Fit the motor bracket on the slots on the acrylic, by fitting in-place 2 (N2) nuts and (N3) washers using the (P4.8) screws. Ensure that the (N2) nuts are correctly secured in the channel slot. Repeat for the rest of the motors and make sure that the brackets are properly fitted by shaking them.
