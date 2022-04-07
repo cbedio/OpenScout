@@ -12,6 +12,8 @@ These are the tools required to build the OpenScout
 | 100mm Steel rule | 1 | [Link](https://www.amazon.co.uk/Silverline-MT65-Steel-Rule-150/dp/B000LFXRNQ/ref=sr_1_5?crid=3H7ZUITKEPZYU&keywords=100mm+metal+ruler&qid=1649287876&s=diy&sprefix=100mm+metal+rule%2Cdiy%2C128&sr=1-5) |
 
 
+### Total Build time = xxx minutes
+
 
 ## Bill of materials
 Before proceeding make sure you do have all the following materials. You are encouraged to read carefully the tutorial before starting building the robot.
