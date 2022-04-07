@@ -67,10 +67,10 @@ The T-slot nut (T5) is very useful to fasten things on aluminium extrusions as i
   <img src="../images/front_compartment_all.jpeg" title="All the components prepared" width="520"/>
 </p>
 
-6. To assemble the front side frame, you need to attach together 2 pieces from step 1, and with one piece from step 4. and one piece from step 5. See the following image for reference. To attach them together you will need to unscrew some screws to attach the (B1) on the piece, and untight some others to align them. Be careful while untighting as the (T5) nuts might fall off the extrusion. You can tight the properly aligned (S5.10) screws as this is their final position. Repeat the step to form the back side of the frame.
+6. To assemble the front side frame, you need to attach together 2 pieces from step 1, and with one piece from step 4. and one piece from step 5. See the following image for reference. To attach them together you will need to unscrew some screws to attach the (B1) on the piece, and untight some others to align them. Be careful while untightening as the (T5) nuts might fall off the extrusion. You can now fully tighten the properly aligned (S5.10) screws, as this is their final position. Repeat the step to form the back side of the frame.
 
 <p float="center">
-  <img src="../images/front_compartment_front_side_1.jpeg" title="The front side of the compartment" width="180"/>
+  <img src="../images/front_compartment_front_side_1.jpeg" title="The front side of the compartment" width="200"/>
   <img src="../images/front_compartment_front_side_2a.jpeg" title="Prepare 2 of these" width="200"/>
   <img src="../images/front_compartment_front_side_2.jpeg" title="Prepare 2 of these" width="550"/>
 </p>
@@ -81,9 +81,9 @@ The T-slot nut (T5) is very useful to fasten things on aluminium extrusions as i
   <img src="../images/front_compartment_semi_final.jpeg" title="Attaching the front side with the back side of the compartment" width="550"/>
 </p>
 
-If everything was followed correctly, the box should look as the reference image in the beginning of the page. If not, don't worry, everything can be fixed with in-place adjacements.
+If everything was followed correctly, the box should look as the reference image in the beginning of the page. If not, don't worry, everything can be fixed with in-place adjustments.
 
-(**HINT**: It might be hard remembering which screws has been tighted and which not. Marking them with a sharpie or with a bit of tape after tighting them might help.)
+(**HINT**: It might be hard remembering which screws has been tightened and which not. Marking them with a sharpie or with a bit of tape after tightening them might help.)
 
 ## What's next?
-Follow the [back comparment](./back_compartment.md) tutorial for the back side of the robot.
+Follow the [back compartment](./back_compartment.md) tutorial for the back side of the robot.
