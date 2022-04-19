@@ -2,5 +2,4 @@
 
 List of tutorials:
 
-* [OpenAgriscout with hinge in the middle](01-robot-with-hinge/README.md)
-* [Basic electronics layout](basic_circuit.md)
+* [Open AgriScout with Lazy Susan bearing](robot_with_lazy_susan_bearing/README.md)
