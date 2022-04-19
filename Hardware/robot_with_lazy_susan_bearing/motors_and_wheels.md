@@ -1,6 +1,9 @@
 # Motors and wheels
 
-Bill of materials:
+## Build time = 45 minutes
+
+### Bill of materials:
+
 | Material                         | Quantity | Reference | UK link |
 | ---------------------------------|---------:|:---------:|:-------:|
 | 90:1 12V motor with encoders | 4 | M1 | [Link](https://amz.run/5TFQ) |
@@ -15,13 +18,10 @@ Bill of materials:
 | M5 Washers | 8 | N3 | - |
 
 
-
 ## Introduction
 
 We used four 12V 90:1 CQrobot motors as they provide a relatively good amount of torque and they come with encoders as well. The particular motors come with brackets, thus mounting them gets very easy.
 One the other hand, the wheels selection wasn't very sophisticated, and soon they will replaced by bigger ones in order to increase ground clearence.
-
-### Build time = 45 minutes
 
 ## Step-by-step instructions
 
