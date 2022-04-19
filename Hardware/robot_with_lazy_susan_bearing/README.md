@@ -83,10 +83,10 @@ Parts:
 4. [Adding the acrylic panels](./acrylic_panels.md)
 5. [Din rail](./din_rail.md)
 6. [Attaching the motors and the wheels](./motors_and_wheels.md)
-7. [Adding the electronics](../basic_circuit.md)
+7. [Adding the electronics](./circuit_assembly_instructions.md)
 
 ## Adding the software
-TODO
+[TODO Add the PID controller to the Arduino](./upload_software.md)
 
 
 That was it! :)
