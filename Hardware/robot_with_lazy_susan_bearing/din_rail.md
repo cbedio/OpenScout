@@ -23,7 +23,7 @@ The din rail (DT) consists of a holed metal with some terminal blocks (red & whi
 
 <p float="center">
   <img src="../../Documentation/Images/din_rail_1.jpeg" title="Attaching the terminal blokcs on the din rail." width="300"/>
-  <img src=".../../Documentation/Images/din_rail_2.jpeg" title="The din rail assembled" width="300"/>
+  <img src="../../Documentation/Images/din_rail_2.jpeg" title="The din rail assembled" width="300"/>
 </p>
 
 2. Fit in-place 2 (T4) nuts on the extrusion that will accommodate the din rail and screw the rail on them using (N3) washers. Make sure that is properly fitted by giving it a shake.
