@@ -12,8 +12,7 @@ OpenAgriscout is made of standard sizes aluminium extrusions making it very modu
 
 ## Demonstration
 
-AgriScout moving around grassed area on incline and decline gradients
-
+https://user-images.githubusercontent.com/44243266/164105180-839fc627-df63-4446-af7d-90f431a007b9.mp4
 
 ## Getting started
 Materials used:
