@@ -6,8 +6,8 @@ OpenAgriScout is a low-cost open source hardware and software mobile robot that 
 OpenAgriscout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design depends on the use case and the needs of the user. The robot provides the bare minimum(wizard-of-oz tele-operation and software for controlled differential drive) and future versions will introduce more chassis configurations, ROS/ROS2 integration and gazebo urdf files.
 
 <p float="left">
-  <img src="doc/images/robot_with_hinge_02.png" title="Robot with hinge in the middle configuration" width="400" height="300"/>
-  <img src="doc/images/robot_with_hinge_01.png" title="Robot with hinge in the middle configuration" width="400" height="300"/> 
+  <img src="Documentation/Images/robot_with_hinge_02.png" title="Robot with hinge in the middle configuration" width="400" height="300"/>
+  <img src="Documentation/Images/robot_with_hinge_01.png" title="Robot with hinge in the middle configuration" width="400" height="300"/> 
 </p>
 
 ## Demonstration
@@ -21,10 +21,9 @@ The robot consists of 200mm & 300mm 20x20 aluminium extrusions connected with 90
 
 The full bill of materials depends on each configuration and for more details please refer to the tutorials.
 
-Assembly tutorials:
+Assembly Tutorial:
 
-* [OpenAgriscout with hinge in the middle](doc/01-robot-with-hinge/README.md)
-* [Basic electronics layout](doc/basic_circuit.md)
+* [Open AgriScout with Lazy Susan bearing](Hardware/robot_with_lazy_susan_bearing/README.md)
 
 
 ## How to contribute
