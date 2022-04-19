@@ -21,7 +21,7 @@ The robot consists of 200mm & 300mm 20x20 aluminium extrusions connected with 90
 
 The full bill of materials depends on each configuration and for more details please refer to the tutorials.
 
-Assembly Tutorial:
+### Assembly Tutorial:
 
 * [Open AgriScout with Lazy Susan bearing](Hardware/robot_with_lazy_susan_bearing/README.md)
 
