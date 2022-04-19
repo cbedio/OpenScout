@@ -87,6 +87,3 @@ Parts:
 
 ## Adding the software
 [Add the PID controller to the Arduino](./upload_software.md)
-
-
-That was it! :)
