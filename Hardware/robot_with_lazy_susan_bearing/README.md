@@ -86,7 +86,7 @@ Parts:
 7. [Adding the electronics](./circuit_assembly_instructions.md)
 
 ## Adding the software
-[TODO Add the PID controller to the Arduino](./upload_software.md)
+[Add the PID controller to the Arduino](./upload_software.md)
 
 
 That was it! :)
