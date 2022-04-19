@@ -36,10 +36,10 @@ This tutorial provides instructions for wiring together the electronic component
 
 1. Attach a strap of velcro (Q) either on the back or the front of the robot (depending on where you'd like to place the battery), and on the bottom of the battery (E1) so you can secure it on the robot. You can use the terminal blocks on the din rail (DT) to prepare some 12V and 5V (using the step down converter (E3)) power lines to power the components.
 
-2. See the [arduino layout](../schematics/arduino_layout.pdf) schematic for reference.
+2. See the [arduino layout](../../Documentation/Schematics/arduino_layout.pdf) schematic for reference.
 
 <p float="center">
-  <img src="./images/electronics_1.jpeg" title="Attaching the motor brackets on the bottom of the chassis." width="500"/>
+  <img src="../../Documentation/Images/electronics_1.jpeg" title="Attaching the motor brackets on the bottom of the chassis." width="500"/>
 </p>
 
 
@@ -53,7 +53,7 @@ This tutorial provides instructions for wiring together the electronic component
 | CH1_S | D2 |
 | CH2_S | D3 |
 
-3. See the [radio receiver layout](../schematics/rc_layout.pdf) schematic for reference.
+3. See the [radio receiver layout](../../Documentation/Schematics/rc_layout.pdf) schematic for reference.
   
 
 ### 3. Connecting the front motors with the front motor driver
@@ -83,7 +83,7 @@ This tutorial provides instructions for wiring together the electronic component
 
 3. Connect the encoder VCC and GND on the LF and RF motors (M1) on the 5V output of the step down converter (E3).
    
-4. See the [front side motors layout](../schematics/front_side_motors.pdf) schematic for reference.
+4. See the [front side motors layout](../../Documentation/Schematics/front_side_motors.pdf) schematic for reference.
 
 
 ### 4. Connecting the back motors with the back motor driver
@@ -113,11 +113,11 @@ This tutorial provides instructions for wiring together the electronic component
 
 3. Connect the encoder VCC and GND on the LB and RB motors (M1) on the 5V output of the step down converter (E3).
    
-4. See the [back side motors layout](../schematics/back_side_motors.pdf) schematic for reference.
+4. See the [back side motors layout](../../Documentation/Schematics/back_side_motors.pdf) schematic for reference.
 
 <p float="center">
-  <img src="./images/electronics_2.jpeg" title="Example wiring of the robot." width="500"/>
+  <img src="../../Documentation/Images/electronics_2.jpeg" title="Example wiring of the robot." width="500"/>
 </p>
 
 ## What's next?
-Congratulations! The robot wiring is complete. Follow the last part of the tutorial series to [flash the software](./../basic_circuit.md).
+Congratulations! The robot wiring is complete. Follow the last part of the tutorial series to [flash the software](./upload_software.md).
