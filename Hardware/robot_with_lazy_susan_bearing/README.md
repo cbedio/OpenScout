@@ -1,4 +1,4 @@
-# OpenAgriscout with Lazy Susan bearing joint
+# OpenAgriscout with Lazy Susan bearing
 This configuration uses four-wheel differential drive steering, and a Lazy Susan hinged body which enables the wheels to drive over small obstacles without the need for suspension.
 
 ## Assembly Tools Required
