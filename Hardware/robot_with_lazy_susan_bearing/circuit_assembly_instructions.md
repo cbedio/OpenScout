@@ -1,6 +1,9 @@
 # Basic electronics layout
 
-Bill of materials:
+## Build time = 75 minutes
+
+### Bill of materials:
+
 | Material                         | Quantity | Reference | UK link |
 | ---------------------------------|---------:|:---------:|:-------:|
 | 12V Lead Acid battery | 1 | E1 | [Link](https://uk.rs-online.com/web/p/lead-acid-batteries/0597835) |

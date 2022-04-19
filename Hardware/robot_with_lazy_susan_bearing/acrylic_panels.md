@@ -1,6 +1,9 @@
 # Acrylic panels
 
-Bill of materials:
+## Build time = 20 minutes
+
+### Bill of materials:
+
 | Material                         | Quantity | Reference | UK link |
 | ---------------------------------|---------:|:---------:|:-------:|
 | 200x340x3mm acrylic sheets | 4 | C1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) |
@@ -11,7 +14,6 @@ Bill of materials:
 
 This tutorial includes instructions to laser-cut and fit the bare minimum acrylic panels needed on the robot. That is on the bottom, front and back side of the robot; in the previous tutorial, 2 sheets also were added in the middle as the hinge is attached on them. The reason is to keep the cost to the minimum, however the 3mm is not that strong as it should. You are welcome to use 5mm acrylic sheets, something stronger, or even wood to take full advantage of the maximum robot's payload.
 
-### Build time = 20 minutes
 
 ## Step-by-step instructions
 

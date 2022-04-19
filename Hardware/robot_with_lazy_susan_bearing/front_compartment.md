@@ -1,6 +1,9 @@
-# Front compartment
+# Front Compartment
 
-Bill of materials:
+## Build time = 75 minutes
+
+### Bill of materials:
+
 | Material                         | Quantity | Reference | UK link |
 | ---------------------------------|---------:|:---------:|:-------:|
 | 300mm 20x20 aluminium extrusion  | 4 |  A1 | [Link](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) |
@@ -28,8 +31,6 @@ Final result:
 <img align="right" width="100" src="../../Documentation/Images/t_nut_bolt.png">
 
 The T-slot nut (T5) is very useful to fasten things on aluminium extrusions as it allows it to freely slide within the extrusion and gets secured once it's fastened with a screw. The order of attachment from bottom to top should be: T-slot nut (T5), attachment, washer (N3) and lastly secured with the bolt (S5.10). **Be careful though that the T-nut to be inserted needs an open ended extrusion, so you need to know how many of them you need before start attaching things to the end of the extrusions.**
-
-### Build time = 75 minutes
 
 ## Step-by-step instructions
 

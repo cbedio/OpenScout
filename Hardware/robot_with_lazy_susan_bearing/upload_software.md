@@ -1,5 +1,7 @@
 # Flashing Controller Software to the AgriScout Robot
 
+## Install time = 5 minutes
+
 The main script that needs to be uploaded to the Arduino board is located within the `Software` folder of this directory. To upload the sketch we recommend that you use the Arduino IDE, which can be obtained from [arduino.cc](https://www.arduino.cc/en/software).
 
 ## Getting started

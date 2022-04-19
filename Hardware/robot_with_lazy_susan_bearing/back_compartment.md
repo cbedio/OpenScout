@@ -1,6 +1,9 @@
 # Back compartment
 
-Bill of materials:
+### Build time = 90 minutes
+
+### Bill of materials:
+
 | Material                         | Quantity | Reference | UK link |
 | ---------------------------------|---------:|:---------:|:-------:|
 | 300mm 20x20 aluminium extrusion  | 4 |  A1 | [Link](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) |
@@ -17,9 +20,6 @@ Bill of materials:
 ## Introduction
 
 The back compartment consists of a boxed-shaped construction which is almost identical to the front compartment. Its key difference is that it makes use of one extra (A2) extrusion on the right side of the box, to accommodate the din-rail which will be introduced later on. Also, the (A2) extrusion is fitted and attached using M4 (T4), (S4.10) nuts and screw with slightly smaller (B2) 90 degree joint brackets. The (T4) nut, does not need to be fitted through the open-ended (A2), instead it can be fitted in-place and fasting a screw on it will secure it (The fact that is fitted in-place though can be a bit tricky to properly secure it.)
-
-### Build time = 90 minutes
-
 
 ## Step-by-step instructions
 

@@ -1,8 +1,9 @@
-# Adding the hinge
+# Adding the Lazy Susan hinge
 
-The (C2.1) components have been cut using leftovers from the 3mm acrylic sheet.
+## Build time = 45 minutes
 
-Bill of materials:
+### Bill of materials:
+
 | Material                         | Quantity | Reference | UK link |
 | ---------------------------------|---------:|:---------:|:-------:|
 | 200x340x3mm  acrylic sheet | 2 | C1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) |
@@ -13,12 +14,11 @@ Bill of materials:
 | M4 Hex nuts | 8 | N1 | - |
 | M5 Washers | 8 | N3 | - |
 
+Note: The (C2.1) components have been cut using leftovers from the 3mm acrylic sheet.
 
 ## Introduction
 
 This tutorial includes instructions to connect the front and the back compartments using the hinge.
-
-### Build time = 45 minutes
 
 ## Step-by-step instructions
 

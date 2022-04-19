@@ -1,6 +1,9 @@
 # Din rail
 
-Bill of materials:
+## Build time = 15 minutes
+
+### Bill of materials:
+
 | Material                         | Quantity | Reference | UK link |
 | ---------------------------------|---------:|:---------:|:-------:|
 | Din rail with terminal blocks | 1 | DT | [Link](https://amz.run/5TFF) |
@@ -14,8 +17,6 @@ Bill of materials:
 ## Introduction
 
 The din rail (DT) consists of a holed metal with some terminal blocks (red & white) attached on it. You can attach as many as you wish, and its purpose is provide some convience while wiring the battery.
-
-### Build time = 15 minutes
 
 ## Step-by-step instructions
 
