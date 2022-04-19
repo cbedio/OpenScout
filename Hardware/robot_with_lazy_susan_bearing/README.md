@@ -68,7 +68,7 @@ Bolts & nuts:
 
 
 <p float="left">
-  <img src="../images/component_knolling.jpeg" title="Open for full resolution" width="650"/>
+  <img src="../Documentation/Images/component_knolling.jpeg" title="Open for full resolution" width="650"/>
 </p>
 
 (**NOTE**: The links provided only as examples and there is no affiliation with the suppliers. The reader is advised to look for cheaper alternatives if possible. The motor brackets are provided in the CQRobot motor package, thus they are not in the bill of materials. Please keep in mind that alternative motors, brackets or components might require different bolts or additional parts.)
