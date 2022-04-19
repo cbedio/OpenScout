@@ -33,7 +33,7 @@ This tutorial provides instructions for wiring together the electronic component
 ## Wiring Diagram
 
 <p float="center">
-  <img src="../../Documentation/Images/full_system_layout.jpeg" title="Wiring diagram." width="500"/>
+  <img src="../../Documentation/Images/full_system_layout.png" title="Wiring diagram." width="500"/>
 </p>
 
 
