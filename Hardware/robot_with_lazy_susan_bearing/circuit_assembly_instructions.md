@@ -130,4 +130,4 @@ This tutorial provides instructions for wiring together the electronic component
 </p>
 
 ## What's next?
-Congratulations! The robot wiring is complete. Follow the last part of the tutorial series to [flash the software](./upload_software.md).
+Congratulations! The robot wiring is complete. Follow the last part of the tutorial series to [flash the software](../../Software/upload_software.md).
