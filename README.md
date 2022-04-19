@@ -1,18 +1,18 @@
-# Open_AgriScout
+# Open AgriScout
 
-## What is OpenAgriscout
-OpenAgriScout is a low-cost open source hardware and software mobile robot that can be used for both indoor and outdoor tasks, transporting up to 15kg of payload. The robot is designed to be easily and cheaply (200USD) buildable and modifiable by non-specialists, and to function as a new standard physical platform for robotics research and real-world tasks, replacing current proprietary options. Example applications include last mile and factory floor delivery, site survey and monitoring, and agricultural crop operations.
+## An Open Source Hardware Agricultural Mobile Robot
+Open AgriScout is a low-cost open source hardware and software mobile robot that can be used for both indoor and outdoor tasks, transporting up to 15kg of payload. The robot is designed to be easily and cheaply (200USD) buildable and modifiable by non-specialists, and to function as a new standard physical platform for robotics research and real-world tasks, replacing current proprietary options. Example applications include last mile and factory floor delivery, site survey and monitoring, and agricultural crop operations.
 
-OpenAgriscout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design depends on the use case and the needs of the user. The robot provides the bare minimum(wizard-of-oz teleoperation and software for controlled differential drive) and future versions will introduce more chassis configurations, ROS/ROS2 integration and gazebo urdf files.
+OpenAgriscout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design depends on the use case and the needs of the user. The robot provides the bare minimum(wizard-of-oz tele-operation and software for controlled differential drive) and future versions will introduce more chassis configurations, ROS/ROS2 integration and gazebo urdf files.
 
 <p float="left">
-  <img src="doc/images/robot_with_hinge_02.png" title="Robot with hinge in the middle configuration" width="400" height="300"/>
-  <img src="doc/images/robot_with_hinge_01.png" title="Robot with hinge in the middle configuration" width="400" height="300"/> 
+  <img src="Documentation/Images/robot_with_hinge_02.png" title="Robot with hinge in the middle configuration" width="400" height="300"/>
+  <img src="Documentation/Images/robot_with_hinge_01.png" title="Robot with hinge in the middle configuration" width="400" height="300"/> 
 </p>
 
 ## Demonstration
 
-[TODO Add demo video here of it moving and climbing stuff]
+https://user-images.githubusercontent.com/44243266/164105180-839fc627-df63-4446-af7d-90f431a007b9.mp4
 
 ## Getting started
 Materials used:
@@ -20,10 +20,9 @@ The robot consists of 200mm & 300mm 20x20 aluminium extrusions connected with 90
 
 The full bill of materials depends on each configuration and for more details please refer to the tutorials.
 
-Assembly tutorials:
+### Assembly Tutorial:
 
-* [OpenAgriscout with hinge in the middle](doc/01-robot-with-hinge/README.md)
-* [Basic electronics layout](doc/basic_circuit.md)
+* [Open AgriScout with Lazy Susan bearing](Hardware/robot_with_lazy_susan_bearing/README.md)
 
 
 ## How to contribute
