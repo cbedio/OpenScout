@@ -14,7 +14,11 @@ https://user-images.githubusercontent.com/44243266/164106469-40fd4e49-3fc4-4e6d-
 
 https://user-images.githubusercontent.com/44243266/164107038-064fa3a4-c015-442a-a19c-a9744e270ef6.mp4
 
-## Demonstrating AgriScouts skid steer Turning
+## Demonstrating AgriScouts Skid Steer Turning
 
 https://user-images.githubusercontent.com/44243266/164293534-1231552e-729a-4a1c-bcfd-0fddd6751873.mp4
+
+## AgriScout carrying 8kg and 13kg Load
+
+https://user-images.githubusercontent.com/44243266/164296846-f96e995c-095d-40cd-b905-0aa8709ff077.mp4
 
