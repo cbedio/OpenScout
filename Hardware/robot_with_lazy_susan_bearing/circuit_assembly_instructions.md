@@ -68,7 +68,7 @@ This tutorial provides instructions for wiring together the electronic component
 | CH1_S | D2 |
 | CH2_S | D3 |
 
-3. See the [radio receiver layout](../../Documentation/Schematics/rc_layout.pdf) schematic for reference.
+4. See the [radio receiver layout](../../Documentation/Schematics/rc_layout.pdf) schematic for reference.
   
 
 ### 3. Connecting the front motors with the front motor driver
