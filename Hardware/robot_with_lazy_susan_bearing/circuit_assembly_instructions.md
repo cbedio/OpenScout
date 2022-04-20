@@ -1,4 +1,4 @@
-# Basic electronics layout
+# Electronics layout
 
 ## Build time = 75 minutes
 
