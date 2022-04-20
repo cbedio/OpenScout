@@ -22,7 +22,7 @@ The full bill of materials depends on each configuration and for more details pl
 
 ### Assembly Tutorial:
 
-* [Open AgriScout with Lazy Susan bearing](Hardware/robot_with_lazy_susan_bearing/README.md)
+## * [Open AgriScout with Lazy Susan bearing](Hardware/robot_with_lazy_susan_bearing/README.md)
 
 
 ## How to contribute
