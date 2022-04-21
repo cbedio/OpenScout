@@ -26,11 +26,11 @@ The full bill of materials depends on each configuration and for more details pl
 
 
 ## How to contribute
-While we try to keep this project open source you are free to make your own choice of materials and adapt the robot to your needs. However, we kindly request you to stick to the suggested 200mm & 300mm 20x20 aluminum extrusions, to allow other users disassemble their current configuration and try out yours! If you use OpenAgriscout for your project, please open a PR with your configuration and it will added in the tutorials. 
+While we try to keep this project open source you are free to make your own choice of materials and adapt the robot to your needs. However, we kindly request you to stick to the suggested 200mm & 300mm 20x20 aluminum extrusions, to allow other users disassemble their current configuration and try out yours! If you use OpenScout for your project, please open a PR with your configuration and it will added in the tutorials. 
 
 The general process of contributing on GitHub is widely documented however the outline process is below:
 
-1. Identify where you want to host the project locally. This could be a Music Makers projects folder for example. 
+1. Identify where you want to host the project locally. This could be a OpenScout projects folder for example. 
 
 
 1. Clone or fork the repository using GitHub desktop or the CLI into this location (CLI is recommended as this helps you become more familiar with Git in general). You can do this with the following command:
