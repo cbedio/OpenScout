@@ -1,9 +1,9 @@
-# Open AgriScout
+# OpenScout
 
 ## An Open Source Hardware Agricultural Mobile Robot
-Open AgriScout is a low-cost open source hardware and software mobile robot that can be used for both indoor and outdoor tasks, transporting up to 15kg of payload. The robot is designed to be easily and cheaply (200USD) buildable and modifiable by non-specialists, and to function as a new standard physical platform for robotics research and real-world tasks, replacing current proprietary options. Example applications include last mile and factory floor delivery, site survey and monitoring, and agricultural crop operations.
+OpenScout is a low-cost open source hardware and software mobile robot that can be used for both indoor and outdoor tasks, transporting up to 15kg of payload. The robot is designed to be easily and cheaply (200USD) buildable and modifiable by non-specialists, and to function as a new standard physical platform for robotics research and real-world tasks, replacing current proprietary options. Example applications include last mile and factory floor delivery, site survey and monitoring, and agricultural crop operations.
 
-OpenAgriscout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design depends on the use case and the needs of the user. The robot provides the bare minimum(wizard-of-oz tele-operation and software for controlled differential drive) and future versions will introduce more chassis configurations, ROS/ROS2 integration and gazebo urdf files.
+OpenScout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design depends on the use case and the needs of the user. The robot provides the bare minimum(wizard-of-oz tele-operation and software for controlled differential drive) and future versions will introduce more chassis configurations, ROS/ROS2 integration and gazebo urdf files.
 
 <p float="left">
   <img src="Documentation/Images/agriscout_on_concrete.png" title="Robot with hinge in the middle configuration" width="400" height="300"/>
@@ -22,7 +22,7 @@ The full bill of materials depends on each configuration and for more details pl
 
 ### Assembly Tutorial:
 
-> [Open AgriScout with Lazy Susan bearing](Hardware/robot_with_lazy_susan_bearing/README.md)
+> [OpenScout with Lazy Susan bearing](Hardware/robot_with_lazy_susan_bearing/README.md)
 
 
 ## How to contribute
