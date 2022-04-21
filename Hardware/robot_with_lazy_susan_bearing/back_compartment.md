@@ -1,4 +1,4 @@
-# Back compartment
+# Back Compartment
 
 ## Build time = 90 minutes
 
@@ -45,4 +45,4 @@ The back compartment consists of a boxed-shaped construction which is almost ide
 </p>
 
 ## What's next?
-Follow the [hinge](./hinge.md) tutorial to connect the front and the back compartment.
+Follow the [lazy susan hinge](./hinge.md) tutorial to connect the front and the back compartment.
