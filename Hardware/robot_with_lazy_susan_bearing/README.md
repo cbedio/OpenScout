@@ -1,7 +1,7 @@
 # Building the OpenScout robot with Lazy Susan bearing
 This configuration uses four-wheel differential drive steering, and a Lazy Susan hinged body which enables the wheels to drive over small obstacles without the need for suspension.
 
-## Total Build time = 370 minutes (6 hours 10 minutes)
+## Total Build time = 390 minutes (6 hours 30 minutes)
 
 ## Assembly Tools Required
 These are the tools required to build the OpenScout
