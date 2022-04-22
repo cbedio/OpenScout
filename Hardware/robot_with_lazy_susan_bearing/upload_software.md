@@ -19,3 +19,8 @@ Connect the Arduino board to the computer and set the port it is attached to:
 - `Tools -> Board -> Arduino AVR Boards -> *Select the Arduino Board*`
 - `Tools -> Processor -> *Select the Arduino Prosessor*`
 - `Tools -> Port -> *Select the USB port*`
+
+
+## What's next?
+
+Follow the [pid calibration](./pid_calibration.md) tutorial to fine tune the PID values for the speed control.
