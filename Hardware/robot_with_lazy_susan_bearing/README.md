@@ -87,5 +87,5 @@ Parts:
 ## Adding the software
 [Add the PID controller to the Arduino](../../Software/README.md)
 
-## PID Calibration
-[Tuning the PID](./pid_calibration.md)
+## Speed PID controller calibration
+[Speed PID controller calibration](./pid_calibration.md)
