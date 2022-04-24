@@ -36,7 +36,7 @@ The general process of contributing on GitHub is widely documented however the o
 1. Clone or fork the repository using GitHub desktop or the CLI into this location (CLI is recommended as this helps you become more familiar with Git in general). You can do this with the following command:
 
     ```bash
-    git clone https://github.com/put_our_project_here
+    git clone https://github.com/cbedio/OpenScout
     ```
 
 1. Update the project and then make a pull request!
