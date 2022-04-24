@@ -2,7 +2,7 @@
 
 This folder contains a range of demonstration videos of the OpenScout to showcase its versatility, Lazy Susan mechanism, speed and agility as well as general movement capabilities.
 
-## OpenScout traversing rough ground with 40 mm peaks and troughs
+## OpenScout traversing uneven ground with 40 mm peaks and troughs
 
 https://user-images.githubusercontent.com/44243266/164106367-831fb5b9-249c-4e1c-89fb-e72b6c4fe974.mp4
 
