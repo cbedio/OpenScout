@@ -1,6 +1,6 @@
 # Demonstrations
 
-This folder contains a range of demonstration videos of the AgriScout to showcase its versatility, Lazy Susan mechanism, speed and agility as well as general movement capabilities.
+This folder contains a range of demonstration videos of the OpenScout to showcase its versatility, Lazy Susan mechanism, speed and agility as well as general movement capabilities.
 
 ## OpenScout traversing rough ground with 40 mm peaks and troughs
 
