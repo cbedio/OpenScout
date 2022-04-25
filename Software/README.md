@@ -1,4 +1,4 @@
-# Flashing Controller Software to the AgriScout Robot
+# Flashing Controller Software to the OpenScout Robot
 
 ## Install time = 5 minutes
 
