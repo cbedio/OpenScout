@@ -41,7 +41,7 @@ For the electronics:
 | 12V Lead Acid battery | 1 | E1 | [Link](https://uk.rs-online.com/web/p/lead-acid-batteries/0597835) |
 | 10A circuit breaker | 1 | E2 | [Link](https://amz.run/5TFI) |
 | Buck converter | 1 | E3 | [Link](https://amz.run/5TFJ) |
-| Arduino Mega | 17 | E4 | [Link](https://amz.run/5TFL) |
+| Arduino Mega | 1 | E4 | [Link](https://amz.run/5TFL) |
 | L298N Motor drivers | 2 | E5 | [Link](https://amz.run/5TFN) |
 | Radio transmitter-receiver | 1 | E6 | [Link](https://amz.run/5TFO) |
 | Breadboards | - | - | - |
