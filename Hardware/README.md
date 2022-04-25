@@ -1,6 +1,6 @@
-# AgriScout Assembly Tutorial
+# OpenScout Assembly Tutorial
 
-* [Open AgriScout with Lazy Susan bearing Assembly](robot_with_lazy_susan_bearing/README.md)
+* [OpenScout with Lazy Susan bearing Assembly](robot_with_lazy_susan_bearing/README.md)
 
 
 <p float="left">
