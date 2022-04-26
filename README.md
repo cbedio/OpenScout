@@ -24,7 +24,7 @@ The full bill of materials depends on each configuration and for more details pl
 
 ## Assembly Tutorial:
 
-[OpenScout robot with Lazy Susan bearing](Hardware/robot_with_lazy_susan_bearing/README.md)
+[OpenScout robot with 'Lazy Susan' revolute hinge](Hardware/robot_with_lazy_susan_bearing/README.md)
 
 
 ## How to contribute
