@@ -12,7 +12,7 @@ OpenScout is made of standard sizes aluminium extrusions making it very modular.
 
 ## Demonstration
 
-Demonstrations showing a variety of different mobility aspects can be found in the Demonstrations directory. The below demonstration shows OpenScout traversing successfully uneven terrain with circa 40 mm divots. 
+Demonstrations showing a variety of different mobility aspects can be found in the Demonstrations directory. The below demonstration shows OpenScout  successfully traversing uneven terrain with circa 40 mm divots. 
 
 https://user-images.githubusercontent.com/44243266/164105180-839fc627-df63-4446-af7d-90f431a007b9.mp4
 
