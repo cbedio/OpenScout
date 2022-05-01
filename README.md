@@ -24,7 +24,7 @@ The full bill of materials depends on each configuration and for more details pl
 
 ## Assembly Tutorial:
 
-A full documented assembly tutorial for the OpenScout with a Lazy Susan revolute hinge is available below. Additionally, a comprehensive and fully documented [Assembly Manual](Hardware/robot_with_lazy_susan_bearing/assemblymanual.pdf) with stepo by step 3D projections of the whole build has been made available to print out. 
+A full documented assembly tutorial for the OpenScout with a Lazy Susan revolute hinge is available below. Additionally, a comprehensive and fully documented [Assembly Manual](Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf) with stepo by step 3D projections of the whole build has been made available to print out. 
 
 [OpenScout robot with 'Lazy Susan' revolute hinge](Hardware/robot_with_lazy_susan_bearing/README.md)
 
