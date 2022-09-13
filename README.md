@@ -47,4 +47,4 @@ The general process of contributing on GitHub is widely documented however the o
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE) and [CERN-OHL-W](LICENCE)
+This project is licensed under the [GNU General Public License v3.0](LICENSE) and [CERN-OHL-W](LICENCE) and [CC by-SA](CC-BY-SA LICENCE)
