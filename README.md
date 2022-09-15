@@ -50,6 +50,6 @@ The general process of contributing on GitHub is widely documented however the o
 This project is licensed under the [GNU General Public License v3.0](LICENSE) and [CERN-OHL-W](LICENCE) and [CC BY-SA](CC-BY-SA_LICENCE)
 
 <p align="left" width="100%">
-    <img src="Documentation/Images/oshw_label.png">
+    <img src="Documentation/Images/oshw_cert_label.png">
 </p>
 
