@@ -17,7 +17,7 @@ Demonstrations showing a variety of different mobility aspects can be found in t
 https://user-images.githubusercontent.com/44243266/164105180-839fc627-df63-4446-af7d-90f431a007b9.mp4
 
 ## HackaDay
-This project was covered in a [Hackaday article](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) by Bryan Cockfield, noting OpenScout as a straightforward and easy to build without many specialized tools; providing a really useful platform to expand upon.
+This project was covered in a [Hackaday article](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) by Bryan Cockfield, noting OpenScout as a straightforward and easy build without many specialized tools; providing a really useful platform to expand upon.
 
 ## Getting started
 Materials used:
