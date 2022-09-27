@@ -11,7 +11,7 @@ OpenScout is made of standard sizes aluminium extrusions making it very modular.
 </p>
 
 ## HackaDay
-This project was covered in a [Hackaday article](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) by Bryan Cockfield
+This project was covered in a [Hackaday article](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) by Bryan Cockfield noting it as a straightforward and easy to build without many specialized tools, that provdies a really useful platform to expand upon.
 
 ## Demonstration
 
