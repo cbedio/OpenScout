@@ -10,6 +10,9 @@ OpenScout is made of standard sizes aluminium extrusions making it very modular.
     <img width="45%" height="350" src="Documentation/Images/agriscout_incline.png"> 
 </p>
 
+## HackaDay
+This project was covered in a [Hackaday article](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) by Bryan Cockfield
+
 ## Demonstration
 
 Demonstrations showing a variety of different mobility aspects can be found in the [Demonstrations](Demonstrations) directory. The below demonstration shows OpenScout with a 'lazy Susan' revolute hinge successfully traversing uneven terrain with circa 40 mm divots.
