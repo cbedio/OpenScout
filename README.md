@@ -1,5 +1,9 @@
 # OpenScout
 
+[![DOI](https://zenodo.org/badge/477675491.svg)](https://zenodo.org/doi/10.5281/zenodo.10263675)
+
+
+
 ## An Open Source Hardware Mobile Robot
 OpenScout is a low-cost open source hardware and software mobile robot that can be used for both indoor and outdoor tasks, transporting up to 15kg of payload. The robot is designed to be easily and cheaply (350USD) buildable and modifiable by non-specialists, and to function as a new standard physical platform for robotics research and real-world tasks, replacing current proprietary options. Example applications include last mile and factory floor delivery, site survey and monitoring, and agricultural crop operations.
 
