@@ -8,7 +8,7 @@ This is a ROS2 package for virtually simulating the OpenScout robot.
 [Gazebo Harmonic](https://gazebosim.org/docs/harmonic/ros_installation/)
  
 ### Further info
-During the time of writing (2025), Gazebo Harmonic does not tolerate running in a virtual machine very well. It is recommened to run it on a computer with Ubuntu Noble installed natively. 
+During the time of writing (2025), Gazebo Harmonic does not tolerate running in a virtual machine very well. It is recommended to run it on a computer with Ubuntu Noble installed natively. 
 
 Additionally, when installing Gazebo Harmonic ensure that you do not install the standalone version. Instead first install ROS2 Jazzy, and then opt for [the version of Gazebo integrated into ROS2 Jazzy.](https://docs.ros.org/en/jazzy/Installation.html)
 
@@ -42,8 +42,8 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 
 ## Once in the simulation
 
-Try driving over the slope with one wheel. This showcases the joint in the middle of the robot.
+Try driving over the slope with one side. This showcases the joint in the middle of the robot.
 
-Feel free to make edits to the evironment or robot to test whatever you like.
+Feel free to make edits to the SDF to test whatever you like.
 
-Its possible to make a python file to control the openscout, using ROS2 topics.
+Its possible to make a python file to control the openscout using ROS2 topics.
