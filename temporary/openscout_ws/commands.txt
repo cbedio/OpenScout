@@ -1,7 +1,0 @@
-cd ~/backup/openscout_ws
-colcon build
-source install/setup.bash
-ros2 launch openscout openscout.launch.py
-
-source /opt/ros/jazzy/setup.bash
-ros2 run teleop_twist_keyboard teleop_twist_keyboard
