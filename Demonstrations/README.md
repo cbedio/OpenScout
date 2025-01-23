@@ -1,18 +1,18 @@
 # Demonstrations
 
-This folder contains a range of demonstration videos of the OpenScout to showcase its versatility, Lazy Susan mechanism, speed and agility as well as general movement capabilities.
+This folder contains a range of demonstration videos of the OpenScout to showcase its versatility, Lazy Susan mechanism, speed and agility as well as general movement capabilities. Additionally there is a video showing the simulated environment.
 
 # 1 - OpenScout driving over a small slope
 
 https://github.com/user-attachments/assets/b3fbb942-297d-4cb1-b123-8d51ed27b225
 
-# 2 - 
-
-https://github.com/user-attachments/assets/f78b6c29-8d6c-4ecf-929b-bfc48b505c79
-
-# 3 - 
+# 2 - OpenScout angular rotation
 
 https://github.com/user-attachments/assets/c9248a99-090f-416c-b4d8-dba4bdea5ad4
+
+# 3 - OpenScout moving with no payload
+
+https://github.com/user-attachments/assets/f78b6c29-8d6c-4ecf-929b-bfc48b505c79
 
 # 4 - OpenScout carrying 3kg
 
