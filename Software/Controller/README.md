@@ -6,7 +6,7 @@ The main script that needs to be uploaded to the Arduino board is located within
 
 ## Getting started
 
-1. Open the Arduino IDE and load in the `simple_pid.ino` file (`File -> Open -> select_file`).
+1. Open the Arduino IDE and load in the `refined_pid.ino` file (`File -> Open -> select_file`).
 1. Upload the sketch (see settings below)
 
 ### Settings
