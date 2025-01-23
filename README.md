@@ -1,6 +1,6 @@
 # OpenScout Changes 23/01/2025
 
-### Attempted to implement ESP32.
+### Attempted to replace Arduino with ESP32.
 It was found to not have enough pins, therefore used arudino ATMEGA and ESP32.
 
 ATMEGA controlls motors and motor drivers.
@@ -9,9 +9,17 @@ ESP32 controlls MQTT messages, and translates them into motor control commands.
 ### Added a new Lead-acid battery to power arduino and ESP32.
 The orignal Lead-acid battery powers the 4 motors and their drivers.
 
-### Software
+### Control software
 Evaluated MQTT receiver, however it was found to be incomplete therefore using it to control motors was not possible.
 Implemented radio receiver which converts radio commands into twist messages instead.
+Replaced simple_pid.ino with refined_pid.ino .
+
+### Added simulation software
+A simulated version of the openscout was created.
+Implemented using Gazebo Harmonic and ROS2.
+
+### Changes to documentation.
+Updated demonstrations with new model.
 
 # OpenScout
 
