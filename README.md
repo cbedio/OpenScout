@@ -1,19 +1,17 @@
 # OpenScout Changes 23/01/2025
 
-Attempted to implement ESP32.
-Found to have not enough pins, therefore used arudino ATMEGA and ESP32.
+### Attempted to implement ESP32.
+It was found to not have enough pins, therefore used arudino ATMEGA and ESP32.
 
-ATMEGA controlls motors and drivers
+ATMEGA controlls motors and motor drivers.
 ESP32 controlls MQTT messages, and translates them into motor control commands.
 
-Added Lead-acid battery to power arduino and ESP32.
-The orignal Lead-acid battery powers the 4 motors.
+### Added a new Lead-acid battery to power arduino and ESP32.
+The orignal Lead-acid battery powers the 4 motors and their drivers.
 
-Software-
-Attempted MQQT receiver, however MQTT is incomplete therefore isn't usable for this purpose yet.
-Implemented radio reiciver.
-
-
+### Software
+Evaluated MQTT receiver, however it was found to be incomplete therefore using it to control motors was not possible.
+Implemented radio receiver which converts radio commands into twist messages instead.
 
 # OpenScout
 
