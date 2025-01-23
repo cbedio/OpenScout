@@ -1,5 +1,9 @@
 # OpenScout Changes 23/01/2025
 
+https://github.com/user-attachments/assets/b3fbb942-297d-4cb1-b123-8d51ed27b225
+
+See Demonstrations folder for more videos. 
+
 ### Attempted to replace Arduino with ESP32.
 It was found to not have enough pins, therefore used arudino ATMEGA and ESP32.
 
