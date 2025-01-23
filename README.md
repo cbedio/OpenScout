@@ -1,5 +1,8 @@
 # OpenScout Changes 23/01/2025
 
+[![Watch the video](https://raw.githubusercontent.com/ilovemicroplastics/OpenScout/main/Software/simulation/openscout_ws/openscout_sim.png)](
+https://raw.githubusercontent.com/ilovemicroplastics/OpenScout/main/test.mkv)
+
 ### Attempted to replace Arduino with ESP32.
 It was found to not have enough pins, therefore used arudino ATMEGA and ESP32.
 
