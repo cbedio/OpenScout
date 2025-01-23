@@ -19,3 +19,6 @@ Connect the Arduino board to the computer and set the port it is attached to:
 - `Tools -> Board -> Arduino AVR Boards -> *Select the Arduino Board*`
 - `Tools -> Processor -> *Select the Arduino Prosessor*`
 - `Tools -> Port -> *Select the USB port*`
+
+
+Attribution: created by https://github.com/Rudi-Cato .
