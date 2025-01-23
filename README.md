@@ -4,15 +4,16 @@
 It was found to not have enough pins, therefore used arudino ATMEGA and ESP32.
 
 ATMEGA controlls motors and motor drivers.
-ESP32 controlls MQTT messages, and translates them into motor control commands.
+ESP32 controls MQTT messages, and translates them into motor control commands.
 
 ### Added a new Lead-acid battery to power arduino and ESP32.
 The orignal Lead-acid battery powers the 4 motors and their drivers.
 
 ### Control software
-Evaluated MQTT receiver, however it was found to be incomplete therefore using it to control motors was not possible.
+MQTT communication and Twist to JSON code has been tested by modulating LED intensities to prove core concept,
+however, for use with a ATMEGA a wifi shield was needed for testing on OpenScout, works well with the ESP32 but lacks enough pins to control the robot
 
-Implemented radio receiver which converts radio commands into twist messages instead.
+Implemented radio receiver which converts radio commands into throttle and angular values instead.
 
 Replaced simple_pid.ino with refined_pid.ino .
 
