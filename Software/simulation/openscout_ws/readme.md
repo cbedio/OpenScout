@@ -51,3 +51,7 @@ Try driving over the slope with one side. This showcases the joint in the middle
 Feel free to make edits to the SDF to test whatever you like.
 
 Its possible to make a python file to control the openscout using ROS2 topics.
+
+## Example video of simulation running once set up
+
+https://github.com/user-attachments/assets/db36529f-7577-4ad0-a52f-730f6c3506c2
