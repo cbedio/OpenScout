@@ -14,8 +14,6 @@ Additionally, when installing Gazebo Harmonic ensure that you do not install the
 
 ![alt text](https://github.com/ilovemicroplastics/OpenScout/blob/main/Software/simulation/openscout_ws/openscout_sim.png)
 
-https://github.com/user-attachments/assets/db36529f-7577-4ad0-a52f-730f6c3506c2
-
 ## Guide to running the package (On the default Ubuntu system)
 
 First prepare the environment, as listed above.
