@@ -11,7 +11,9 @@ The orignal Lead-acid battery powers the 4 motors and their drivers.
 
 ### Control software
 Evaluated MQTT receiver, however it was found to be incomplete therefore using it to control motors was not possible.
+
 Implemented radio receiver which converts radio commands into twist messages instead.
+
 Replaced simple_pid.ino with refined_pid.ino .
 
 ### Added simulation software
