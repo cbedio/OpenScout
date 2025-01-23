@@ -14,7 +14,9 @@ Additionally, when installing Gazebo Harmonic ensure that you do not install the
 
 ## Guide to running the package (On the default Ubuntu system)
 
-First make sure you have teleop twist keyboard installed.
+First prepare the environment, as listed above.
+
+Then make sure you have teleop twist keyboard installed.
 ````
 sudo apt-get install ros-jazzy-teleop-twist-keyboard
 ````
