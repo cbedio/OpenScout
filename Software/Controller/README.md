@@ -27,6 +27,6 @@ Github history lost due to moving files.
 
 Twist_via_MQTT.ino created by https://github.com/Rudi-Cato .
 
-Refined_pid.ino created by https://github.com/Tobies-Cormac .
+refined_pid.ino created by https://github.com/Tobies-Cormac .
 
 simple_pid.ino created by https://github.com/cbedio .
