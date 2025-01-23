@@ -12,7 +12,6 @@ The main script that needs to be uploaded to the Arduino board is located within
 ### Settings
 
 The firmware can be uploaded through `Sketch -> Upload` or by pressing the upload button.
-<img align="center" width="200" src="../Documentation/Images/upload.png" />
 
 Connect the Arduino board to the computer and set the port it is attached to:
   
