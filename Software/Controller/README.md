@@ -25,7 +25,7 @@ Connect the Arduino board to the computer and set the port it is attached to:
 Github history lost due to moving files.
 
 
-README.md created by https://github.com/Rudi-Cato
+README.md updated by https://github.com/Rudi-Cato
 
 Twist_via_MQTT.ino created by https://github.com/Rudi-Cato
 
