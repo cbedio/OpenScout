@@ -12,7 +12,7 @@ During the time of writing (2025), Gazebo Harmonic does not tolerate running in 
 
 Additionally, when installing Gazebo Harmonic ensure that you do not install the standalone version. Instead first install ROS2 Jazzy, and then opt for [the version of Gazebo integrated into ROS2 Jazzy.](https://docs.ros.org/en/jazzy/Installation.html)
 
-![alt text]([https://github.com/ilovemicroplastics/OpenScout/blob/[branch]/image.jpg?raw=true](https://github.com/ilovemicroplastics/OpenScout/blob/main/Software/simulation/openscout_ws/openscout_sim.png))
+![alt text](https://github.com/ilovemicroplastics/OpenScout/blob/main/Software/simulation/openscout_ws/openscout_sim.png)
 
 ## Guide to running the package (On the default Ubuntu system)
 
