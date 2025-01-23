@@ -6,8 +6,8 @@ It was found to not have enough pins, therefore used arudino ATMEGA and ESP32.
 ATMEGA controlls motors and motor drivers.
 ESP32 controls MQTT messages, and translates them into motor control commands.
 
-### Added a new Lead-acid battery to power arduino and ESP32.
-The orignal Lead-acid battery powers the 4 motors and their drivers.
+### Battery adjustments
+Increased the capacity of the secondary battery (that powers the arduino ATMEGA and ESP32)
 
 ### Control software
 MQTT communication and Twist to JSON code has been tested by modulating LED intensities to prove core concept,
