@@ -26,7 +26,7 @@ A simulated version of the openscout was created.
 Implemented using Gazebo Harmonic and ROS2.
 
 ### Changes to documentation.
-Updated demonstrations with new model.
+Updated demonstrations with changes.
 
 # OpenScout
 
