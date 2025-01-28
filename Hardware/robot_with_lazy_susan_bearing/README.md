@@ -83,6 +83,7 @@ Parts:
 5. [Din rail](./din_rail.md)
 6. [Attaching the motors and the wheels](./motors_and_wheels.md)
 7. [Adding the electronics](./circuit_assembly_instructions.md)
+8. [Assembling the system](./assembling_the_system.md)
 
 ## Adding the software
 [Add the PID controller to the Arduino](../../Software/README.md)

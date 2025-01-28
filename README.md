@@ -1,6 +1,10 @@
-# OpenScout
 
-[![DOI](https://zenodo.org/badge/477675491.svg)](https://zenodo.org/doi/10.5281/zenodo.10263675)
+
+# OpenScout Robot
+
+[![DOI](https://zenodo.org/badge/477675491.svg?style=for-the-badge)](https://zenodo.org/records/10263676)
+![License](https://img.shields.io/badge/License-GNU-blue?style=for-the-badge) ![ROS](https://img.shields.io/badge/ROS-HUMBLE-blue?style=for-the-badge&logo=ROS) [![VERSION](https://img.shields.io/badge/VERSION-0.1.1-COLOR.svg?style=for-the-badge&logo=LOGO)](<LINK>) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/CPP-3670A0?style=for-the-badge&logo=cpp&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![RVIZ](https://img.shields.io/badge/RViz-0078D7?style=for-the-badge&logo=RViz&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-0078D7?style=for-the-badge&logo=Gazebo&logoColor=white) ![Robotics](https://img.shields.io/badge/Robotics-0078D7?style=for-the-badge&logo=Robotics&logoColor=white) ![AI](https://img.shields.io/badge/AI-0078D7?style=for-the-badge&logo=AI&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-orange?style=for-the-badge&logo=EasyEDA) ![MQTT](https://img.shields.io/badge/MQTT-green?style=for-the-badge&logo=MQTT)
 
 
 
@@ -13,6 +17,8 @@ OpenScout is made of standard sizes aluminium extrusions making it very modular.
     <img width="45%" height="350" src="Documentation/Images/agriscout_on_concrete.png">
     <img width="45%" height="350" src="Documentation/Images/agriscout_incline.png"> 
 </p>
+
+For detailed changes, see the [CHANGELOG](CHANGELOG.md).
 
 ## Demonstration
 
